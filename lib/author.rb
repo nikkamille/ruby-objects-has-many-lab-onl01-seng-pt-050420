@@ -7,7 +7,7 @@ class Author
   end
   
   def posts 
-    
+    Post.all.select  
   end
   
   
