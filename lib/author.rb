@@ -11,7 +11,7 @@ class Author
   end
   
   def add_post(title)
-    
+    title. = self
   end
   
   
